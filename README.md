@@ -1,9 +1,5 @@
-## Hi there 👋
 
-<!--
-**YeomanJ7782/YeomanJ7782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm Julie! 👋
+## Hi, I'm Julie! 👋
 
 ## About Me
 Currently taking CSC-289 Programming Capstone and learning to collaborate with AI tools!
