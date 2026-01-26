@@ -42,3 +42,5 @@ Screenshot of terminal output confirming environment validation
 ### Screenshot of Environment Validation
 
 ![Environment Validation Screenshot](verify_environment_screenshot.png)
+
+
